@@ -1,0 +1,1 @@
+This website will show what ive learned from The Odin Project so far, I have been tasked to create a basic recipes website.
